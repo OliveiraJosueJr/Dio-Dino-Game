@@ -2,5 +2,5 @@
 
 ### Dino game using only JS, HTML and CSS.
 
-#### @Digital Inovation One
+#### @Digital Innovation One
 
